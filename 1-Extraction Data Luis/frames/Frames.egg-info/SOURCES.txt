@@ -1,0 +1,11 @@
+README.md
+setup.py
+Frames.egg-info/PKG-INFO
+Frames.egg-info/SOURCES.txt
+Frames.egg-info/dependency_links.txt
+Frames.egg-info/requires.txt
+Frames.egg-info/top_level.txt
+bin/frametracking-evaluate
+bin/frametracking-tagger
+frames/__init__.py
+frames/utils.py

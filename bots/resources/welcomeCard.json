@@ -1,0 +1,29 @@
+{
+  "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+  "type": "AdaptiveCard",
+  "version": "1.0",
+  "body": [
+    {
+      "type": "Image",
+      "url": "http://cheapestairlinetickets.weebly.com/uploads/6/2/5/0/62505833/2255144_orig.jpg",
+      "size": "stretch"
+    },
+    {
+      "type": "TextBlock",
+      "spacing": "medium",
+      "size": "default",
+      "weight": "bolder",
+      "text": "Welcome to FlyMe Bot!",
+      "wrap": true,
+      "maxLines": 0
+    },
+    {
+      "type": "TextBlock",
+      "size": "default",
+      "isSubtle": "true",
+      "text": "I can help you book your flight. For that I need some information: destination, origin city, date of travel, date of return and budget.",
+      "wrap": true,
+      "maxLines": 0
+    }
+  ]
+}

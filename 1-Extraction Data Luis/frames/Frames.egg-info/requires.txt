@@ -1,0 +1,6 @@
+numpy
+six
+click
+tabulate
+nose
+colorama
